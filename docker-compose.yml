@@ -1,6 +1,6 @@
 version: '2'
 services:
-  web:
+  qinglong:
     image: whyour/qinglong:latest
     volumes:
       - ql-data:/ql
